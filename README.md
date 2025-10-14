@@ -1,7 +1,7 @@
 ## Hi there, I'm Adrian Avila 👋
 
 ## About me
-#### Currently, I am studying software engineering at Unemi.
+#### I'm a software engineering student focused on building modern web applications with Django and React. I enjoy solving real-world problems, learning new technologies, and collaborating on open source projects. Feel free to visit my repositories or contact me!
 
 ## Technologies and tools
 
