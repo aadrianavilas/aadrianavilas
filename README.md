@@ -20,9 +20,7 @@
 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-## IDE
 
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 <!--
 **aadrianavilas/aadrianavilas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
