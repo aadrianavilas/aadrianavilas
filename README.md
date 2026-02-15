@@ -1,3 +1,3 @@
 <div align="center">
-## Hola, soy Adrian Avila 👋
+# Hola, soy Adrian Avila
 </div>
